@@ -1,0 +1,5 @@
+homepage: "https://www.abtshield.com"
+documentation: "https://github.com/EDGE-NPD/abtshield-google-tag-manager/wiki/How-to-integrate-ABTShield-with-your-service"
+versions:
+  - sha: 048a41cf2de1ff7e44f4680db70a12945bd551b4
+    changeNotes: Initial release.
